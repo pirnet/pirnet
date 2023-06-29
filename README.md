@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as software developer<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I code</p>
+<p align="left">- 🔭 I’m working as software developer<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I code Web-apps/-sites</p>
 
 ###
 
